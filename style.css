@@ -452,7 +452,7 @@ form textarea{
         grid: none;
     }
     .detail {
-        margin-top: 10%;
+        margin-top: 25%;
         margin-left: 5%;
     }
     .images{
@@ -508,5 +508,8 @@ form textarea{
 }
 
 @media only screen and (max-width: 480px){
-
+    .detail {
+        margin-top: 35%;
+        margin-left: 5%;
+    }
 }
